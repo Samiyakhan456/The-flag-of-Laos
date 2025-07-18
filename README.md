@@ -8,11 +8,11 @@ A recreation of the national flag of Laos using only HTML and CSS. No images use
 ##  Live Preview
 https://samiyakhan456.github.io/The-flag-of-Laos/
 
-## 🛠 Technologies Used
+## Technologies Used
 - HTML
 - CSS (Positioning, Colors, Border Radius)
   
-## 💡 What I Learned
+## What I Learned
 - Working with CSS shapes
 - Absolute and relative positioning
 - Precision layout using divs and CSS
